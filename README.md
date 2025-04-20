@@ -166,21 +166,10 @@ Special thanks to:
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
+        <img src="https://github.com/29NidaFatima" width="120px;" alt="Nida Fatima"/>
         <br />
-        <b>Sahil Atahar</b>
+        <b>Nida Fatima</b>
       </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <br/>
-            <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-        </td>
     </tr>
   </tbody>
 </table>
