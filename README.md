@@ -166,7 +166,7 @@ Special thanks to:
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/29NidaFatima" width="120px;" alt="Nida Fatima"/>
+        <img src="https://github.com/29NidaFatima.png" width="120px;" alt="Nida Fatima"/>
         <br />
         <b>Nida Fatima</b>
       </td>
