@@ -2,13 +2,6 @@
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/29NidaFatima/CodeSphere?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/29NidaFatima/CodeSphere?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/29NidaFatima/CodeSphere?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/29NidaFatima/CodeSphere?style=for-the-badge&color=e67234)
-
-
 ## 🔮 Features
 
 - 💻 Real-time collaboration on code editing across multiple files
@@ -90,8 +83,6 @@ A collaborative, real-time code editor where users can seamlessly code together.
    ```bash
    http://localhost:5173/
    ```
-
-
 If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.
 
 ## ✍️ About Developer
