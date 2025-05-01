@@ -1,13 +1,13 @@
-![logo](https://github.com/29NidaFatima/CodeSync/blob/main/client/src/assets/logo.png)
+![logo](https://github.com/29NidaFatima/CodeSphere/blob/main/client/src/assets/logo.png)
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Sync?style=for-the-badge&color=e67234)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
+![GitHub Repo stars](https://img.shields.io/github/stars/29NidaFatima/CodeSphere?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/29NidaFatima/CodeSphere?style=for-the-badge&color=d7af2d)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/29NidaFatima/CodeSphere?style=for-the-badge&color=f47373)
+![GitHub License](https://img.shields.io/github/license/29NidaFatima/CodeSphere?style=for-the-badge&color=e67234)
+
 
 ## 🔮 Features
 
@@ -28,10 +28,6 @@ A collaborative, real-time code editor where users can seamlessly code together.
 - 🎨 Multiple themes for personalized coding experience
 - 🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time
 - 🤖 Copilot: An AI-powered assistant that generates code, allowing you to insert, copy, or replace content seamlessly within your files.
-
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
@@ -90,44 +86,13 @@ You can view the live preview of the project [here](https://code-sync-live.verce
    ```bash
    http://localhost:5173/
    ```
-### 🎥 Need help with the setup?
-👉 Watch [this video](https://youtu.be/zVHwOmU0aqo) for a step-by-step guide.
-
  **Access the application:**
    ```bash
    http://localhost:5173/
    ```
 
-## 🔮 Features for Next Release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
 
 If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.
-
-
-
-## 🌟 Appreciation for Resources
-
-Special thanks to:
-
-- EMKC for providing the Piston API:
-
-  - [Piston Repository](https://github.com/engineer-man/piston)
-  - [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
-
-- Tldraw contributors:
-  - [Tldraw Repository](https://github.com/tldraw/tldraw)
-  - [Tldraw Documentation](https://tldraw.dev/)
-
-- Pollinations AI:
-  - [Pollinations Repository](https://github.com/pollinations/pollinations)
-  - [Pollinations Docs](https://pollinations.ai/)
 
 ## ✍️ About Developer
 
