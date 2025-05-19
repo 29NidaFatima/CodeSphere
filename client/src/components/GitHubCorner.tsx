@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/29NidaFatima/CodeSync"
+            href="https://github.com/29NidaFatima/CodeSphere"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
