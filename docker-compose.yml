@@ -1,6 +1,6 @@
 services:
   server:
-    container_name: code-sync-server
+    container_name: codeSphere-server
     build:
       context: ./server
       dockerfile: Dockerfile
@@ -14,7 +14,7 @@ services:
       - "3000:3000"
 
   client:
-    container_name: code-sync-client
+    container_name: codeSphere-client
     build:
       context: ./client
       dockerfile: Dockerfile
@@ -23,12 +23,12 @@ services:
       - ./client:/app
       - /build/node_modules
     networks:
-      - Code-Sync
+      - codeSphere
     ports:
       - "5173:5173"
     depends_on:
       - server
 
 networks:
-  Code-Sync:
+ codeSphere:
     driver: bridge
