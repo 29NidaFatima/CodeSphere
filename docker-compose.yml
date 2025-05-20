@@ -25,12 +25,12 @@ services:
       - ./client:/app
       - /build/node_modules
     networks:
-      - Code-Sync  # Reference to the same network
+      - codeSphere # Reference to the same network
     ports:
       - "5173:5173"
     depends_on:
       - server
 
 networks:
-  Code-Sync:
+   codeSphere:
     driver: bridge  # Use the default bridge driver
